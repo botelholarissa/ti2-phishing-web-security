@@ -14,4 +14,4 @@ Por isso, o objetivo principal do trabalho é trazer informação e conhecimento
 
 ## Como acessar
 
-O site foi hospedado no Vercel.app e está disponível neste endereço: https://phishing-websecurity.vercel.app/
+O código mais recente da aplicação web desenvolvida está disponível no diretório "Codigos_Eclipse" na forma de um projeto da IDE Eclipse. Para acessar versões mais antigas, acessar "Documentacao" e escolher a Sprint (entrega) desejada.
