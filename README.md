@@ -14,4 +14,4 @@ Por isso, o objetivo principal do trabalho é trazer informação e conhecimento
 
 ## Como acessar
 
-O código mais recente da aplicação web desenvolvida está disponível no diretório "Codigos_Eclipse" na forma de um projeto da IDE Eclipse. Para acessar versões mais antigas, acessar "Documentacao" e escolher a Sprint (entrega) desejada.
+O código mais recente da aplicação web desenvolvida está disponível no diretório "Codigos_Eclipse", na forma de um projeto do IDE Eclipse. Para acessar versões mais antigas, acessar "Documentacao" e escolher a Sprint (entrega) desejada.
